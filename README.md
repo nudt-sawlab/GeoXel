@@ -2,7 +2,7 @@
 
 **Geographic Per-pixel 3D Mapping from Aerial Video in the Wild**
 
-[Project Page](https://nudt-sawlab.github.io/geoxel/) · [Paper]
+[Project Page](https://nudt-sawlab.github.io/GeoXel/) · [Paper]
 
 ![GeoXel overview and AMtown trajectory comparison](assets/teaser.png)
 
